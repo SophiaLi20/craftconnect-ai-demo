@@ -1,6 +1,8 @@
 # 🎨 CraftConnect AI - Empowering Indian Artisans
 
-**Live Demo:** [https://craftconnect-ai-demo.netlify.app/](https://your-netlify-url.netlify.app)
+**🚀 Live Demo:** [https://craftconnect-ai-demo.netlify.app/](https://craftconnect-ai-demo.netlify.app/)
+
+> Experience our AI-powered platform that bridges traditional craftsmanship with modern digital marketing using Google Cloud's Generative AI.
 
 ## 🎯 Problem Statement
 Over 200 million Indian artisans struggle with digital marketing, limiting their market reach and income potential despite possessing invaluable traditional skills.
@@ -8,7 +10,7 @@ Over 200 million Indian artisans struggle with digital marketing, limiting their
 ## 🚀 Our Solution
 An AI-powered platform leveraging Google Cloud's Generative AI to bridge traditional craftsmanship with modern digital marketing.
 
-### Key Features
+### ✨ Key Features (Try them in the demo!)
 - 🤖 **AI Story Generator** - Creates compelling narratives in Hindi & regional languages
 - 📸 **Smart Product Analysis** - Computer Vision-powered product optimization  
 - 💰 **Intelligent Pricing** - ML-based market pricing recommendations
@@ -24,11 +26,17 @@ An AI-powered platform leveraging Google Cloud's Generative AI to bridge traditi
 
 ## 📊 Expected Impact
 - 40% income increase for participating artisans
-- 10,000+ artisans onboarded in Year 1
+- 10,000+ artisans onboarded in Year 1  
 - ₹50Cr+ total sales facilitated
 - 500+ traditional craft techniques digitally preserved
 
-## 🎮 Try the Demo
-Visit our interactive prototype to experience the complete user journey from product upload to global sales.
+## 🎮 Interactive Demo Features
+Visit [our live demo](https://craftconnect-ai-demo.netlify.app/) to try:
+- AI-powered story generation for artisan profiles
+- Smart pricing calculator with market analysis
+- Voice command interface in Hindi
+- Mobile-first artisan dashboard
+- Global marketplace integration preview
 
 ---
+*Built for Google Cloud AI Hackathon 2024 - Empowering Traditional Craftsmanship with Modern AI Technology*
