@@ -39,4 +39,3 @@ Visit [our live demo](https://craftconnect-ai-demo.netlify.app/) to try:
 - Global marketplace integration preview
 
 ---
-*Built for Google Cloud AI Hackathon 2024 - Empowering Traditional Craftsmanship with Modern AI Technology*
