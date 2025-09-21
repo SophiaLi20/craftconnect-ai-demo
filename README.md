@@ -30,4 +30,3 @@ An AI-powered platform leveraging Google Cloud's Generative AI to bridge traditi
 Visit our interactive prototype to experience the complete user journey from product upload to global sales.
 
 ---
-*Built for Google Cloud AI Hackathon - Empowering Traditional Craftsmanship with Modern Technology*
