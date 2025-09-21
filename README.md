@@ -1,5 +1,7 @@
 # 🎨 CraftConnect AI - Empowering Indian Artisans
 
+**Live Demo:** [https://craftconnect-ai-demo.netlify.app/](https://your-netlify-url.netlify.app)
+
 ## 🎯 Problem Statement
 Over 200 million Indian artisans struggle with digital marketing, limiting their market reach and income potential despite possessing invaluable traditional skills.
 
