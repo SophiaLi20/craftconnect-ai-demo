@@ -38,4 +38,3 @@ Visit [our live demo](https://craftconnect-ai-demo.netlify.app/) to try:
 - Mobile-first artisan dashboard
 - Global marketplace integration preview
 
----
